@@ -7,4 +7,4 @@ Eduardo Marinho RA 1700158
 SI 2B - NOITE
  */
 
-drop table cliente,aluga,veiculo,tipo_veiculo
+drop table aluga,cliente,veiculo,tipo_veiculo
